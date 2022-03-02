@@ -23,6 +23,6 @@
     "webpack-dev-server": "^3.11.0"
   },
   "dependencies": {
-    "reveal.js": "^4.0.2"
+    "reveal.js": "^4.3.0"
   }
 }
